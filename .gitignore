@@ -26,3 +26,5 @@ coverage
 
 # Dev Files
 *.env*
+
+.idea
